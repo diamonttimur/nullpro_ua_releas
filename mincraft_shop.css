@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+    background: url("https://minecraft-skin-editor.com/images/minecraft-cover.jpg");
+}
+
+h1 {
+    text-align: center;
+    color: chocolate;
+}
+
+section {
+    width: 425px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+
+.a :hover {
+    font-size: xx-large;
+}
+
+.b :hover {
+    font-size: xx-large;
+}
+
+.c :hover {
+    font-size: xx-large;
+}
+
+.d :hover {
+    font-size: xx-large;
+}
+
+.QUIZ a :hover{
+    font-size: larger;
+}
+
+td {
+    background-color: blue;
+}
+
+.but {
+    background-color: blueviolet;
+}
