@@ -8,3 +8,19 @@ a {
     text-decoration: none;
     color:gold;
 }
+
+button {
+    color:green;
+    background-color:gray;
+    font-size:30px;
+    border-radius:50%;
+    border:1px solid black;
+}
+
+botton:hover {
+    color:yellow;
+    background-color:black;
+    font-size:30px;
+    border-radius:50%;
+    border:1px solid black;
+}
