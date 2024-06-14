@@ -15,6 +15,7 @@ button {
     font-size:30px;
     border-radius:50%;
     border:1px solid black;
+    padding:15px;
 }
 
 botton:hover {
@@ -23,4 +24,5 @@ botton:hover {
     font-size:30px;
     border-radius:50%;
     border:1px solid black;
+    padding:15px;
 }
